@@ -3,11 +3,11 @@ import keep_alive
 
 
 twitchBot = commands.Bot(
-    token="...", # ACCESS TOKEN, Get it at https://twitchtokengenerator.com
+    token="fy5zq7f4c1o0q8dbuhv7guwpc8ulhp", # ACCESS TOKEN, Get it at https://twitchtokengenerator.com
     nick="twitchbot", # your bot's nick
     prefix="!", # command prefix
-    client_id="...", # Get it at https://twitchtokengenerator.com
-    initial_channels=["TwitchAccount1", "TwitchAccount2"], # The twitch channels you want the bot working at
+    client_id="gp762nuuoqcoxypju8c569th9wz7q5", # Get it at https://twitchtokengenerator.com
+    initial_channels=["m141319n", "encoref21922"], # The twitch channels you want the bot working at
 )
 
 
